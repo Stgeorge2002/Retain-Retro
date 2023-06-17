@@ -1,0 +1,13 @@
+<div id="custom-popup" style="display: none;">
+  <div class="popup-content">
+    <span id="close-popup">X</span>
+    <a href="#" class="button-delivery">Delivery</a>
+    <a href="#" class="button-pickup">Pickup</a>
+
+    <div id="pickup-info">
+      <p id="postcode">Postcode: 12345</p>
+      <p id="telephone">Telephone: (123) 456-7890</p>
+      <img id="map" src="https://github.com/yourusername/yourrepository/yourmap.jpg" alt="Pickup location map">
+    </div>
+  </div>
+</div>
